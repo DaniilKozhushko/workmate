@@ -1,0 +1,14 @@
+.coverage
+.venv
+venv
+.env
+__pycache__/
+*.pyc
+*.log
+.env.*
+/.venv/
+.idea/
+*.iml
+*.iws
+*.pyo
+*.pyd
